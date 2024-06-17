@@ -1,8 +1,8 @@
 """
-projekt_4.py: třetí projekt  
-author: Petr Svetr 
-email: petr.svetr@gmail.com 
-discord: Petr Svetr#4490 
+projekt_3.py: třetí projekt  
+author: jakubkapl 
+email: kapl@gmail.com 
+discord: jakubr#4490 
 """
 
 import sys
